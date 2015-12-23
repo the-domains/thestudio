@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thestudio]]></title>
+        <description><![CDATA[thestudio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 04:19:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our cool website]]></title>
+            <description><![CDATA[<article><h1>Our cool website</h1><p>The philosophy here at The Studio, Physiotherapy & Clinical Pilates, is to treat every client with a personal, professional and holistic approach.</p></article>]]></description>
+            <link>undefinedour-cool-website/index.html</link>
+            <guid isPermaLink="false">ec0e9b0d-b29b-4a55-a596-950b48c96316</guid>
+            <pubDate>Wed, 23 Dec 2015 04:19:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
