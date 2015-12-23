@@ -1,0 +1,14 @@
+layout_spectrum: 0.1989247
+color:
+  saturation: 0.05197133
+  brandStrength: 0.7921147
+  lightness: 0.3297491
+  brandColors:
+    - '#F26726'
+    - '#FAFAFA'
+    - '#555555'
+    - '#ACADA2'
+    - '#010101'
+  rhythmicContrast: 0.7670251
+typography_spectrum: 0.390681
+name: thestudio
