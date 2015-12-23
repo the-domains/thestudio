@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.390681
 color:
   saturation: 0.672043
   brandStrength: 0.9767025
-  lightness: 0.7777778
+  rhythmicContrast: 0.297491
   brandColors:
     - '#F26726'
     - '#FAFAFA'
     - '#555555'
     - '#ACADA2'
     - '#010101'
-  rhythmicContrast: 0.297491
-typography_spectrum: 0.390681
-layout_spectrum: 0.9713262
+  lightness: 0.7777778
+layout_spectrum: 0.2598566
 name: thestudio
